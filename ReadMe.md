@@ -43,10 +43,18 @@ _Each day is another chance_
 ## Persons of Interest
 
 [Bill Clinton][1]<br>
+<kbd>![bill](img/img/billCl.jfif)</kbd><br><br>
 [George Bush](https://en.wikipedia.org/wiki/George_W._Bush)<br>
+<kbd><img src="img/img/download.jfif" height="100px" width="200px"></kbd><br><br>
 [George Washington Carver](https://en.wikipedia.org/wiki/George_Washington_Carver)<br>
+<kbd><img src="img/img/George_Washington_Carver.jpg" height="100px" width="200px"></kbd><br><br>
 
+## Facorite Terms
 
-
-
+| Terms | Definitions |
+|:-| :----:|
+|bright| not dark in color|
+|dark| not bright in color|
+|upbeat| not gloomy in tone or mood|
+|gloomy| not upbeat in tone or mood|
 
