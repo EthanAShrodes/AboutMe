@@ -3,6 +3,7 @@
 ---
 ## Summary 
 [Another Link]: https://github.com/Bandera2014/MarkdownTutorial
+[1]: https://en.wikipedia.org/wiki/Bill_Clinton
 
 My name is Ethan Shrodes. I'm a high school student who is attending Castle High School and SICTC.
 
@@ -35,11 +36,17 @@ _Each day is another chance_
 
 ## My Facorite Websites
 
-[Castle High School](https://castle.warrick.k12.in.us)
-[Source for the quotes](https://livelifehappy.com/random-life-quotes/)
-[Orginal repo][Another Link]
+[Castle High School](https://castle.warrick.k12.in.us)<br>
+[Source for the quotes](https://livelifehappy.com/random-life-quotes/)<br>
+[Orginal repo][Another Link]<br>
 
-(https://github.com/Bandera2014/MarkdownTutorial)
+## Persons of Interest
+
+[Bill Clinton][1]<br>
+[George Bush](https://en.wikipedia.org/wiki/George_W._Bush)<br>
+[George Washington Carver](https://en.wikipedia.org/wiki/George_Washington_Carver)<br>
+
+
 
 
 
