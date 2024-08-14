@@ -49,12 +49,12 @@ _Each day is another chance_
 [George Washington Carver](https://en.wikipedia.org/wiki/George_Washington_Carver)<br>
 <kbd><img src="img/img/George_Washington_Carver.jpg" height="100px" width="200px"></kbd><br><br>
 
-## Facorite Terms
+## Favorite Terms
 
-| Terms | Definitions |
-|:-| :----:|
-|bright| not dark in color|
-|dark| not bright in color|
-|upbeat| not gloomy in tone or mood|
-|gloomy| not upbeat in tone or mood|
+| Terms | Definitions | My Meaning |
+|:-| :----:| ----: |
+|bright| bold and vivid colors | not dark in color|
+|dark| with little or no light | not bright in color|
+|upbeat| cheerful; optimistic | not gloomy in tone or mood|
+|gloomy| partially or totally dark | not upbeat in tone or mood|
 
