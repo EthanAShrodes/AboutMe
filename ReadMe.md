@@ -9,17 +9,17 @@ My name is Ethan Shrodes. I'm a high school student who is attending Castle High
 
 ## Hobbies
 
-My hobbies include
+My hobbies include:
 
 - Lifting
 * Reading
 + Walking
 
-My nighttime routine includes
+My nighttime routine includes:
 
-1. brushing teeth
-2. put on bands
-4. be on phone for 3 hours
+1. brushing my teeth
+2. reading
+4. put on retainers
 
 ## My Motto
 
