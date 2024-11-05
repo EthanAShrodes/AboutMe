@@ -2,7 +2,7 @@
 ---
 ---
 ## Summary 
-[Another Link]: https://github.com/Bandera2014/MarkdownTutorial
+[Another Link]: https://ranobes.top
 [1]: https://en.wikipedia.org/wiki/Bill_Clinton
 
 My name is Ethan Shrodes. I'm a high school student who is attending Castle High School and SICTC.
@@ -34,11 +34,11 @@ _Each day is another chance_
 “The purpose of life is a _life of purpose_.”
 
 
-## My Facorite Websites
+## My Favorite Websites
 
-[Castle High School](https://castle.warrick.k12.in.us)<br>
-[Source for the quotes](https://livelifehappy.com/random-life-quotes/)<br>
-[Orginal repo][Another Link]<br>
+[Stack Overflow](https://stackoverflow.com)<br>
+[mtl novel site](reader-hub.com)<br>
+[Novel site][Another Link]<br>
 
 ## Persons of Interest
 
