@@ -37,7 +37,7 @@ _Each day is another chance_
 ## My Favorite Websites
 
 [Stack Overflow](https://stackoverflow.com)<br>
-[mtl novel site](reader-hub.com/)<br>
+[mtl novel site](https://reader-hub.com)<br>
 [Novel site][Another Link]<br>
 
 ## Persons of Interest
